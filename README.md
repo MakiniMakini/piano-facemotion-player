@@ -1,5 +1,5 @@
 
-# piano-motion-player
+# piano-facemotion-player
 play piano using webcam
 
 # About 
