@@ -23,6 +23,7 @@ To use the project locally, follow the following instructions:
 ## Clone
 Clone this repo to your local machine
 ## Server
+```cd``` into dist, 
 Initiate your local server and run 
 ```index.html```
 ## Authors
